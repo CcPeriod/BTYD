@@ -30,3 +30,5 @@
 | `mammoth.browser.min.js` | Mammoth.js 库的浏览器端压缩版本，负责核心的 .docx 解析工作。 |
 | `diff.min.js` | 一个用于文本内容差异对比的 JavaScript 库。 |
 <img width="1706" height="907" alt="image" src="https://github.com/user-attachments/assets/41350641-a3ca-44cd-82cb-1c7933519184" />
+<img width="1741" height="1123" alt="image" src="https://github.com/user-attachments/assets/79a2b8c8-13ef-4f0e-beb2-78d8b19612cc" />
+
